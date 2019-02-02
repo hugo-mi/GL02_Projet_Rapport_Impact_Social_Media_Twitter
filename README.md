@@ -1,6 +1,6 @@
-#GL02-Projet
-dfgdf
-##INTRODUCTION
+# GL02-Projet
+
+## INTRODUCTION
 
 Les fonctions sont excécutables depuis des fichiers séparés,
 chaque fichier js permetant d'effectuer une fonction (d'utiliser une des fonctionnalités proposées)
@@ -11,7 +11,7 @@ NPM REQUIS POUR L'UTILISATION
 npm install caporal
 npm install vega-lite
 ```
-##COMMANDES
+## COMMANDES
 
 -> AuthorActivity.js
 
