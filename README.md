@@ -1,4 +1,4 @@
-# GL02-Projet
+# GL02-Projet - Rapport Impact Social Media Twitter
 
 ## CONTEXTE
 
