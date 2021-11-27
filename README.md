@@ -70,7 +70,7 @@ npm install vega-lite
 	Command : averageChart
 	Argument1 : You can write what you want
 
-#FICHIERS
+## FICHIERS
 
 - README.txt
 - AuthorActivity.js
