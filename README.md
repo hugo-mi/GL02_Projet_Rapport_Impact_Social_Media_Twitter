@@ -92,14 +92,14 @@ _Exporter le résultat de la fonction de TweetCity.js vers une image SVG_
 
 ## FICHIERS
 
-- README.txt
-- AuthorActivity.js
-- hashtagPeriod.js
-- hashtagReference.js
-- parser
-- top10Author.js
-- top10hashtag.js
-- tweet.js
-- tweetCity.js
-- tweetCityVegaLite.js
-- tweetHour.js
+```README.txt```
+```AuthorActivity.js```
+```hashtagPeriod.js```
+```hashtagReference.js```
+```parser```
+```top10Author.js```
+```top10hashtag.js```
+```tweet.js```
+```tweetCity.js```
+```tweetCityVegaLite.js```
+```tweetHour.js```
