@@ -25,7 +25,7 @@ npm install vega-lite
 ```
 ## COMMANDES
 
--> AuthorActivity.js
+-> ```AuthorActivity.js```
 _Affiche du Top 10 des auteurs dont le tweet a été le plus retweeté pour un jour donné._
 
 	Display the Top 10 of Author where their tweet are the moste retweet for a specific day
@@ -33,7 +33,7 @@ _Affiche du Top 10 des auteurs dont le tweet a été le plus retweeté pour un j
 	Argument1 : '<day>', 'The day like FriMar23'
 	Argument2 : '<hashtag>', 'The hashtag without the #'
 
--> hashtahReference.js
+-> ```hashtahReference.js```
 _Affiche la liste des hashtags associés à un hashtag de référence._
 
 	Displays the list of hashtags associated to a reference hashtag
@@ -41,7 +41,7 @@ _Affiche la liste des hashtags associés à un hashtag de référence._
 	Argument1 : '<hashtag>', 'The reference hashtag, type it without the # in front'
 
 
--> top10Author.js  
+-> ```top10Author.js```  
 _Affiche le Top 10 des auteurs dont le tweet a été le plus retweeté pour un jour donné._
 
 	Display the Top 10 of Author where their tweet are the moste retweet for a specific day
@@ -49,7 +49,7 @@ _Affiche le Top 10 des auteurs dont le tweet a été le plus retweeté pour un j
 	Argument1 : '<day>', 'The day like FriMar23'
 
 
--> top10hashtag.js 
+-> ```top10hashtag.js``` 
 _View the Top 10 most retweeted authors for a given day._
 
 	Return the 10 most retweeted tweets with specific hashtag and specific day
@@ -57,7 +57,7 @@ _View the Top 10 most retweeted authors for a given day._
 	Argument1 : '<day>', 'The day like FriMar23'
 
 
--> tweethour.js  
+-> ```tweethour.js```  
 _Compter le nombre de tweet avec une période spécifique et un jour spécifique_
 
 	Count the number of tweet with a specific period and specific day
@@ -67,7 +67,7 @@ _Compter le nombre de tweet avec une période spécifique et un jour spécifique
    	Argument3 : '[hourEnd]', '17'
     	Argument4 : '<username>', 'The username'
 
--> hashtagPeriod.js  
+-> ```hashtagPeriod.js```  
 _Compter le nombre de tweet avec une période spécifique et un jour spécifique_
 
 	Count the number of tweet with a specific period and specific day
@@ -77,13 +77,13 @@ _Compter le nombre de tweet avec une période spécifique et un jour spécifique
    	Argument3 : '[hourEnd]', '17'
 	Argument4 : '<day>', 'The day like FriMar23'
 
--> tweetCity.js
+-> ```tweetCity.js```
 _Affiche le nombre de tweet par ville_
 
 	Displays the number of tweet per city
 	Command : tweetCity
 
--> tweetCityVegaLite.js
+-> ```tweetCityVegaLite.js```
 _Exporter le résultat de la fonction de TweetCity.js vers une image SVG_
 
 	Export the result of the function of TweetCity.js to a SVG picture
